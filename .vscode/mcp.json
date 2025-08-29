@@ -1,0 +1,10 @@
+{
+    "servers": {
+        "saucedemo-mcp-server": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["playwright", "test"],
+            "protocol": "playwright-mcp"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "loginData": {
+        "validUser": {
+            "username": "standard_user",
+            "password": "secret_sauce"
+        }
+    },
+    "checkoutData": {
+        "shippingInfo": {
+            "firstName": "udula",
+            "lastName": "eranda",
+            "zipCode": "abc"
+        }
+    }
+}
